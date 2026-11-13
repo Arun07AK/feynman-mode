@@ -17,7 +17,7 @@ The skill analyses each subject before designing anything. A calculation-heavy c
 Clone into your skills folder:
 
 ```bash
-git clone https://github.com/<your-username>/feynman-mode ~/.claude/skills/feynman-mode
+git clone https://github.com/Arun07AK/feynman-mode ~/.claude/skills/feynman-mode
 ```
 
 Then, in Claude Code, open the folder with your course material and say:
